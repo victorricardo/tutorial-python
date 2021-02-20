@@ -7,6 +7,4 @@
 
 ![](imagenes/anaconda.jpg)
 
-- ## [Mi primer programa en Python](Mi primer programa en Python.ipynb) 
-    * list
-      + (and so on...),
+[Mi primer programa en Python](Mi primer programa en Python.ipynb) 
