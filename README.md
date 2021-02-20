@@ -9,7 +9,7 @@
 
 1) [Mi primer programa en Python](Mi_primer_programa_en_Python.ipynb) 
 1) [Tipos básicos](Tipos_basicos.ipynb) 
-1) [Mi primer programa en Python](Mi_primer_programa_en_Python.ipynb) 
+1) [Colecciones](Colecciones.ipynb) 
 1) [Mi primer programa en Python](Mi_primer_programa_en_Python.ipynb) 
 1) [Mi primer programa en Python](Mi_primer_programa_en_Python.ipynb) 
 1) [Mi primer programa en Python](Mi_primer_programa_en_Python.ipynb) 
