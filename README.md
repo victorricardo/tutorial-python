@@ -7,4 +7,4 @@
 
 ![](imagenes/anaconda.jpg)
 
-[Mi primer programa en Python](Mi primer programa en Python.ipynb) 
+[Mi primer programa en Python](/Mi primer programa en Python.ipynb) 
