@@ -1,4 +1,4 @@
-# Tutorial Python usando Anaconda y Jupyter notebook
+# Tutorial Python 3 usando Anaconda y Jupyter notebook
 
 ## Requisitos:
 
@@ -15,4 +15,4 @@
 1) [Orientación a Objetos](Orientacion_a_Objetos.ipynb) 
 1) [Programación funcional](Programacion_funcional.ipynb) 
 
-Nota: Tomado del Libro Python para todos por Raúl González Duque.
+**Nota:** Tomado del Libro **Python para todos** por **Raúl González Duque**. Realizando las adecuaciones correspondientes para Python 3. https://www.lawebdelprogramador.com/pdf/438-Python-para-todos.html
