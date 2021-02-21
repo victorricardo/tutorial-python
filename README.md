@@ -13,3 +13,6 @@
 1) [Control de flujo](Control_de_flujo.ipynb) 
 1) [Funciones](Funciones.ipynb) 
 1) [Orientación a Objetos](Orientacion_a_Objetos.ipynb) 
+1) [Programación funcional](Programacion_funcional.ipynb) 
+
+Nota: Tomado del Libro Python para todos por Raúl González Duque.
