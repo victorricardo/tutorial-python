@@ -26,7 +26,7 @@ Este libro se distribuye bajo una licencia Creative Commons Reconocimiento 2.5 E
 - ![](imagenes/1.jpg) copiar, distribuir y comunicar públicamente la obra.
 - ![](imagenes/2.jpg) hacer obras derivadas.
 
-Bajo las condiciones siguientes:
+Bajo las condiciones siguientes: 
 
 - ![](imagenes/3.jpg) Reconocimiento. Debe reconocer y dar crédito al autor original (Raúl González Duque).
 
