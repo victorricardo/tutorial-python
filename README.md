@@ -29,3 +29,11 @@ Este libro se distribuye bajo una licencia Creative Commons Reconocimiento 2.5 E
 Bajo las condiciones siguientes:
 
 - ![](imagenes/3.jpg) Reconocimiento. Debe reconocer y dar crédito al autor original (Raúl González Duque).
+
+
+# Otras referencias
+
+- [Jupyter Notebooks con Anaconda y Python 3 Scikit Learn ...](https://www.youtube.com/watch?v=0FiZ9wnu_q0) 
+- [Anaconda. Instalar y configurar para Python, R y Julia.](https://www.youtube.com/watch?v=weO8-p9GGFc) 
+- [Tutorial de Python con Jupyter Notebook](https://facundoq.github.io/courses/aa2018/res/02_python.html) 
+- [Guía de instalación de Python, Numpy, Jupyter Notebook y otros](https://medium.com/saturdays-ai/empezando-a-usar-jupyter-notebook-para-python-parte-1-instalaci%C3%B3n-94e97b4c5f37) 
