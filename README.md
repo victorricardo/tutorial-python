@@ -17,7 +17,7 @@
 
 **Nota:** Tomado del Libro **Python para todos** por **Raúl González Duque**. Realizando las adecuaciones correspondientes para Python 3. https://www.lawebdelprogramador.com/pdf/438-Python-para-todos.html
 
-**Python para todos**
+# Python para todos
 
 **por Raúl González Duque**
 
