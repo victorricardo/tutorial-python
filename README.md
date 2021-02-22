@@ -16,3 +16,16 @@
 1) [Programación funcional](Programacion_funcional.ipynb) 
 
 **Nota:** Tomado del Libro **Python para todos** por **Raúl González Duque**. Realizando las adecuaciones correspondientes para Python 3. https://www.lawebdelprogramador.com/pdf/438-Python-para-todos.html
+
+**Python para todos**
+
+**por Raúl González Duque**
+
+Este libro se distribuye bajo una licencia Creative Commons Reconocimiento 2.5 España. Usted es libre de:
+
+- copiar, distribuir y comunicar públicamente la obra
+- hacer obras derivadas
+
+Bajo las condiciones siguientes:
+
+Reconocimiento. Debe reconocer y dar crédito al autor original (Raúl González Duque)
