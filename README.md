@@ -14,6 +14,8 @@
 1) [Funciones](Funciones.ipynb) 
 1) [Orientación a Objetos](Orientacion_a_Objetos.ipynb) 
 1) [Programación funcional](Programacion_funcional.ipynb) 
+1) [Módulos y Paquetes](Modulos_y_Paquetes.ipynb) 
+1) [Entrada/Salida Y Ficheros](EntradaSalida_Y_Ficheros.ipynb) 
 
 **Nota:** Tomado del Libro **Python para todos** por **Raúl González Duque**. Realizando las adecuaciones correspondientes para Python 3. https://www.lawebdelprogramador.com/pdf/438-Python-para-todos.html
 
@@ -26,7 +28,7 @@ Este libro se distribuye bajo una licencia Creative Commons Reconocimiento 2.5 E
 - ![](imagenes/1.jpg) copiar, distribuir y comunicar públicamente la obra.
 - ![](imagenes/2.jpg) hacer obras derivadas.
 
-Bajo las condiciones siguientes: 
+Bajo las condiciones siguientes:
 
 - ![](imagenes/3.jpg) Reconocimiento. Debe reconocer y dar crédito al autor original (Raúl González Duque).
 
