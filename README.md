@@ -17,6 +17,10 @@
 1) [Módulos y Paquetes](Modulos_y_Paquetes.ipynb) 
 1) [Entrada/Salida Y Ficheros](EntradaSalida_Y_Ficheros.ipynb) 
 
+1) [Libro Python para análisis de datos](https://github.com/victorricardo/curso-python-analisis-datos) 
+1) [Curso de Python para ciencias e ingenierías](https://github.com/victorricardo/curso-python-cientifico) 
+
+
 **Nota:** Tomado del Libro **Python para todos** por **Raúl González Duque**. Realizando las adecuaciones correspondientes para Python 3. https://www.lawebdelprogramador.com/pdf/438-Python-para-todos.html
 
 # Python para todos
