@@ -21,6 +21,8 @@
 1) [Análisis de datos](https://github.com/victorricardo/curso-python-analisis-datos) 
 1) [Curso de Python para ciencias e ingenierías](https://github.com/victorricardo/curso-python-cientifico) 
 
+1) [Ejemplos:](ejemplos/README.md) 
+
 
 **Nota:** Tomado del Libro **Python para todos** por **Raúl González Duque**. Realizando las adecuaciones correspondientes para Python 3. https://www.lawebdelprogramador.com/pdf/438-Python-para-todos.html
 
