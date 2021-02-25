@@ -16,8 +16,9 @@
 1) [Programación funcional](Programacion_funcional.ipynb) 
 1) [Módulos y Paquetes](Modulos_y_Paquetes.ipynb) 
 1) [Entrada/Salida Y Ficheros](EntradaSalida_Y_Ficheros.ipynb) 
+1) [Expresiones Regulares](Expresiones_Regulares.ipynb) 
 
-1) [Libro Python para análisis de datos](https://github.com/victorricardo/curso-python-analisis-datos) 
+1) [Análisis de datos](https://github.com/victorricardo/curso-python-analisis-datos) 
 1) [Curso de Python para ciencias e ingenierías](https://github.com/victorricardo/curso-python-cientifico) 
 
 
